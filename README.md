@@ -7,8 +7,6 @@ url: https://www.sciencedirect.com/science/article/pii/S0169260719303293
 
 You may launch this project by code/interface.p
 
-  ![Original_Micro_CT_image](http://github.com/shushanxia/Analyze-vessel-tree/raw/master/images/Original_Micro_CT_image.jpg)
-  ![Strahler_Ordered_Micro_CT_image](http://github.com/shushanxia/Analyze-vessel-tree/raw/master/images/Strahler_Ordered_Micro_CT_image.jpg)
-  ![Characterisation](http://github.com/shushanxia/Analyze-vessel-tree/raw/master/images/Characterisation.jpg)
-
-https://github.com/shushanxia/Analyze-vessel-tree/blob/master/images/Characterisation.jpg
+  ![Original_Micro_CT_image](images/Original_Micro_CT_image.jpg)
+  ![Strahler_Ordered_Micro_CT_image](images/Strahler_Ordered_Micro_CT_image.jpg)
+  ![Characterisation](images/Characterisation.jpg)
