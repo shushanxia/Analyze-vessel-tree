@@ -6,3 +6,5 @@ Quantitative characterization of rodent feto-placental vasculature morphology in
 url: https://www.sciencedirect.com/science/article/pii/S0169260719303293
 
 You may launch this project by code/interface.p
+
+![image](http://github.com/shushanxia/Analyze-vessel-tree/edit/master/images/Original_Micro_CT_image.png
