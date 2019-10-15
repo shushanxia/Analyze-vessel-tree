@@ -1,7 +1,7 @@
 # Analyze-vessel-tree
 This is the code for paper: 
 
-[Quantitative characterization of rodent feto-placental vasculature morphology in micro-computed tomography images] (https://www.sciencedirect.com/science/article/pii/S0169260719303293)
+[_Quantitative characterization of rodent feto-placental vasculature morphology in micro-computed tomography images_](https://www.sciencedirect.com/science/article/pii/S0169260719303293)
 
 You may launch this project by [code/interface.p](./code/interface.p)  and you will get this:
 
